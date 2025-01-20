@@ -1,0 +1,13 @@
+name: CRP-Animations
+version: '1.0'
+main: me.towster.crpanimations.CRPAnimations
+api-version: 1.15
+authors: [ Towster ]
+
+commands:
+  anim:
+    description: Starts Animation
+    usage: /anim
+  save-data:
+    description: saves armorstand armor data
+    usage: /save-data
